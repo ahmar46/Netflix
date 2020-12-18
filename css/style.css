@@ -145,3 +145,10 @@ img {
 .tab-border {
 	border-bottom: var(--primary-color) 4px solid;
 }
+
+/* Tab Content */
+.tab-content {
+	padding: 3rem 0;
+	background: #000;
+	color: #fff;
+}
