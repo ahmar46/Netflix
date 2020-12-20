@@ -10,3 +10,22 @@ function selectItem(e) {
 	// Add show class
 	tabContentItem.classList.add('show');
 }
+
+// Remove bottom borders from all tab items
+function removeBorder() {
+	tabItems.forEach((item) => {
+		item.classList.remove('tab-border');
+	});
+}
+
+// Remove show class from all content items
+function removeShow() {
+	tabContentItems.forEach((item) => {
+		item.classList.remove('show');
+	});
+}
+
+// Listen for tab item click
+tabItems.forEach((item) => {
+	item.addEventListener('click', selectItem);
+});
