@@ -1,4 +1,4 @@
-### This is clone of the landing Page of NETFLIX. Netflix is a Video streaming Web
+### This is clone of the landing Page of NETFLIX. Netflix is a Video streaming Webs
 
 ### Technologies Used: - HTML, CSS & JavaScript.
 
