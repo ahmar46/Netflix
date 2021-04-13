@@ -1,4 +1,4 @@
-### This is clone of the landing Page of NETFLIX. Netfli
+### This is clone of the landing Page of NETFLIX. Netflix
 
 ### Technologies Used: - HTML, CSS & JavaScript.
 
